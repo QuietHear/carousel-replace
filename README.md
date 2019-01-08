@@ -1,3 +1,5 @@
+# 功能展示
+[点此观看](https://quiethear.github.io/carousel-replace/替换轮播.html "替换轮播")(建议右键新建窗口查看)
 # 说明文档
 > ### 使用步骤
 >> 1. 下载插件
